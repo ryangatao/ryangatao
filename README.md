@@ -1,2 +1,2 @@
 # extrator-url
-print()
+
